@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_header"
+            android:title="Navigation"
+            android:enabled="false"
+            android:icon="@android:color/transparent"/>
+    </group>
+    <item
+        android:id="@+id/nav_item1"
+        android:title="First fragment"
+        android:icon="@drawable/site"/>
+    <item
+        android:id="@+id/nav_item2"
+        android:title="Second fragment"
+        android:icon="@drawable/pictures"/>
+    <item
+        android:id="@+id/nav_item3"
+        android:title="Third fragment"
+        android:icon="@drawable/geo"/>
+</menu>

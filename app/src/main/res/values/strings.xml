@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">29-10-para</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pluss">Increase</string>
+    <string name="minuss">Decrease</string>
+    <string name="app_namee">Navigation and menu</string>
+</resources>
